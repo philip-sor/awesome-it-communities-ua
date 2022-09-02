@@ -29,7 +29,7 @@ Please, see [this guide](CONTRIBUTING.md), if you want to contribute to this lis
 - [FAANG Tech Interview](https://t.me/FaangTechInterview) - **Telegram** - Это украинская группа-спутник FAANG Interview. Цель группы: обсуждение алгоритмических задач.
 - [IT KPI Chat](https://t.me/itkpi_flood) - **Telegram** - Чат найбільшої студенстської IT-спільноти України.
 - [IT KPI Non Tech](https://t.me/itkpi_non_tech) - **Telegram** - IT KPI, нетехнічний чат, проджект/продакт менеджери, бізнес аналітики, HR та рекрутери.
-
+- [DSC NAU chat](https://t.me/dsc_nau_chat) - **Telegram** - Чат розробників Національного Авіаційного Університету.
 ## Backend
 
 - [.NET Chat](https://t.me/dotnet_chat) - **Telegram (RUS, UKR)** - Обсуждение вопросов по C# / .NET.
